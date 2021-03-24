@@ -1,2 +1,3 @@
-# test
-test na WDP
+#Test
+
+To jest moje pierwsze repo!
